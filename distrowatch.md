@@ -1,4 +1,4 @@
-##Question 1
+## Question 1
 1. What is the OS Type:
    * **The OS type is Linux**
 2. Which major distro is it based on?
@@ -10,7 +10,7 @@
 5. What is Distro's home page?
     * **Distro's home page is (Ubuntu)[https://ubuntu.com]**
 
-##Question 2
+## Question 2
 1. What is the name of the distribution and the OS Type
    * **Oracle Linux is the distribution & Linux is the OS**
 2.  Which major distro is it based on?
