@@ -1,1 +1,1 @@
-# linux-class
+# CIS-106 Linux Fundamentals
